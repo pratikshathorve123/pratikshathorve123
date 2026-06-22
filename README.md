@@ -3,8 +3,8 @@
 - 🎓 BCA Graduate from India
 - ☕ Currently learning **Java, SQL & Data Structures**
 - 📚 Exploring **Object-Oriented Programming**
-- 💡 Interested in **Java, C, C++, SQL & Software Engineering**
-- 🎯 Goal: Become a skilled **Java Full Stack Developer** and build impactful software solutions
+- 💻 Technical Skills: Java • C • C++ • SQL
+- 🎯 Goal: To contribute to innovative projects, expand my technical expertise, and build a successful career in the IT industry.
 
 # 🌐 Connect With Me
 
